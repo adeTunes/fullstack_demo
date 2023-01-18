@@ -1,0 +1,25 @@
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-inline: 20px;
+}
+
+input {
+  padding-block: 6px;
+  padding-inline: 5px;
+  border-radius: 6px;
+  border: none;
+  margin-top: 5px;
+  outline: none;
+}
+
+button {
+  background: lightblue;
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
